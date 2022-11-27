@@ -1,0 +1,57 @@
+.container {
+    display: flex;
+    border: 10px solid black;
+    height: 95vh;
+    margin: 0;
+    justify-content: space-around;
+    
+}
+
+.box {
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 4px 4px 0 rgba(0,0,0,0.1);
+    padding: 20px;
+    
+}
+
+.box1 {
+    background: violet;  
+}
+
+.box2{
+    background: #3498db;
+}
+
+.box3 {
+    background: goldenrod;    
+}
+
+.box4 {
+    background: orange;    
+}
+
+.box5 {
+    background: tomato;    
+}
+
+.box6 {
+    background: steelblue;
+}
+
+.box7 {
+    background: greenyellow;
+}
+
+.box8 {
+    background: #bdc3c7;
+}
+
+.box9 {
+    background: #2ecc71;
+}
+
+.box10 {
+    background: darkred;
+}
